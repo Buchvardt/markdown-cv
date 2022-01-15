@@ -1,91 +1,132 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mikkel Buchvardt's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mikkel Buchvardt
+Chief Data Scientist, Software Engineer, Naval Officer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/mikkelberntbuchvardt/">https://www.linkedin.com/in/mikkelberntbuchvardt/</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Chief Data Scientist
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Designing, Building and managing *Intelligent Systems* combining Machine Learning- and Software Engineering process and technologies. Popularly phrased as **MLOps**. 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+[Applied AI](https://people.eecs.berkeley.edu/~russell/aima1e.html), Cloud- and Software Engineering, Inner- and Open Source Culture, Leadership
+
+
+## Projects
+
+`IoT POC`
+
+City Data Exchange Proof Of Concept application with Hitachi Consulting and municipality of Copenhagen. REST endpoint integration to smartphone app to infer wether a person is walking, running, biking, driving -car, -bus, or -train based on input from phone sensors.
+
+`NER for invoices`
+
+Leading a team that applied transformer based NLP algorithms to manually annotated invoice data proved to distinguish well between names, brands, organizations etc.
+
+`AI Academy`
+
+Onboard a team of data scientist into an existing organization, teach the AI tech stack and set up for success with stakeholders like Product Managers and Architects across the company.
+
+`Case summary`
+
+An application that can summarize across different documents extracting key phrases using NLP methods TextRank and KeyPhraseExtraction.
+
+
+## Products
+
+`UNSPSC® Classifier`
+
+Deep Learning based functionality to hierarchaly label structured and unstructured invoice data into over 60.000 categories. To accommodate speed the application is deployed in k8s.
+
+[Spend Analysis](https://www.kmd.dk/loesninger-og-services/loesninger/oekonomi/kmd-opus-indkoeb/kmd-indkoebsanalyse)
+
+`Auto Accounting`
+
+Deep Learning based functionality to automate accounting of invoices in municipalities using supervised learning.
+
+[Easy Payment](https://www.kmd.dk/loesninger-og-services/loesninger/oekonomi/kmd-letbetaling)
+
+
+## Skills
+
+`Software Eng.`
+Agile, SCRUM, GIT, OOP, UML, Azure Cloud, DevOps, K8s, Docker, Java, SQL, REST API, Kafka, RabbitMQ
+
+`AI`
+CRISP-DM, MS TDSP, ML, DL, NLP, Time Series, R, Python, Tensorflow, PyTorch
+
+`Business`
+Leadership, Team Management, Documentation, Teaching, Presentation, Business Psychology, Business Process Analysis
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2016`
+__IT-University, Copenhagen.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master Of Science (MsC), Software development and technology
 
-- Sizar
+`2011-2014`
+__Copenhagen Business School, Copenhagen__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Bachelor's Degree, Economics and Psychology
 
-- Fellow
+`2004-2009`
+__Royal Danish Naval Academy__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Ships Master and Naval Officer
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2020-`
+__KMD__, Aarhus
 
-- Warden
-- Minted coins
+- Chief Data Scientist
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2018-2020`
+__KMD__, Aarhus
 
+- Lead Data Scientist
 
+`2016-2018`
+__KMD__, Aarhus
+
+- BI Specialist
+
+`2015-2016`
+__Amager Privatskole__, Copenhagen
+
+- Teaching Assistant
+
+`2011-2015`
+__Sofie Amalie Gaarden__, Frederiksberg
+
+- Substitute Caretaker
+
+`2009-2011`
+__Royal Danish Navy__, Greenland & Faroe Islands
+
+- First Lieutenant
+
+`2004-2009`
+__Royal Danish Navy__, Danish Waters and Naval Academy
+
+- Cadet
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2020 -->
 
 

@@ -1,0 +1,141 @@
+I"�<h1 id="mikkel-buchvardt">Mikkel Buchvardt</h1>
+<p>Chief Data Scientist, Software Engineer, Naval Officer.</p>
+
+<div id="webaddress">
+<a href="https://www.linkedin.com/in/mikkelberntbuchvardt/">https://www.linkedin.com/in/mikkelberntbuchvardt/</a>
+</div>
+
+<h2 id="currently">Currently</h2>
+
+<p>Chief Data Scientist</p>
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>Designing, Building and managing <em>Intelligent Systems</em> combining Machine Learning- and Software Engineering process and technologies. Popularly phrased as <strong>MLOps</strong>.</p>
+
+<h3 id="research-interests">Research interests</h3>
+
+<p><a href="https://people.eecs.berkeley.edu/~russell/aima1e.html">Applied AI</a>, Cloud- and Software Engineering, Inner- and Open Source Culture, Leadership</p>
+
+<h2 id="projects">Projects</h2>
+
+<p><code class="language-plaintext highlighter-rouge">IoT POC</code></p>
+
+<p>City Data Exchange Proof Of Concept application with Hitachi Consulting and municipality of Copenhagen. REST endpoint integration to smartphone app to infer wether a person is walking, running, biking, driving -car, -bus, or -train based on input from phone sensors.</p>
+
+<p><code class="language-plaintext highlighter-rouge">NER for invoices</code></p>
+
+<p>Leading a team that applied transformer based NLP algorithms to manually annotated invoice data proved to distinguish well between names, brands, organizations etc.</p>
+
+<p><code class="language-plaintext highlighter-rouge">AI Academy</code></p>
+
+<p>Onboard a team of data scientist into an existing organization, teach the AI tech stack and set up for success with stakeholders like Product Managers and Architects across the company.</p>
+
+<p><code class="language-plaintext highlighter-rouge">Case summary</code></p>
+
+<p>An application that can summarize across different documents extracting key phrases using NLP methods TextRank and KeyPhraseExtraction.</p>
+
+<h2 id="products">Products</h2>
+
+<p><code class="language-plaintext highlighter-rouge">UNSPSC® Classifier</code></p>
+
+<p>Deep Learning based functionality to hierarchaly label structured and unstructured invoice data into over 60.000 categories. To accommodate speed the application is deployed in k8s.</p>
+
+<p><a href="https://www.kmd.dk/loesninger-og-services/loesninger/oekonomi/kmd-opus-indkoeb/kmd-indkoebsanalyse">Spend Analysis</a></p>
+
+<p><code class="language-plaintext highlighter-rouge">Auto Accounting</code></p>
+
+<p>Deep Learning based functionality to automate accounting of invoices in municipalities using supervised learning.</p>
+
+<p><a href="https://www.kmd.dk/loesninger-og-services/loesninger/oekonomi/kmd-letbetaling">Easy Payment</a></p>
+
+<h2 id="skills">Skills</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Software Eng.</code>
+Agile, SCRUM, GIT, OOP, UML, Azure Cloud, DevOps, K8s, Docker, Java, SQL, REST API, Kafka, RabbitMQ</p>
+
+<p><code class="language-plaintext highlighter-rouge">AI</code>
+CRISP-DM, MS TDSP, ML, DL, NLP, Time Series, R, Python, Tensorflow, PyTorch</p>
+
+<p><code class="language-plaintext highlighter-rouge">Business</code>
+Leadership, Team Management, Documentation, Teaching, Presentation, Business Psychology, Business Process Analysis</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2014-2016</code>
+<strong>IT-University, Copenhagen.</strong></p>
+
+<ul>
+  <li>Master Of Science (MsC), Software development and technology</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2011-2014</code>
+<strong>Copenhagen Business School, Copenhagen</strong></p>
+
+<ul>
+  <li>Bachelor’s Degree, Economics and Psychology</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2004-2009</code>
+<strong>Royal Danish Naval Academy</strong></p>
+
+<ul>
+  <li>Ships Master and Naval Officer</li>
+</ul>
+
+<h2 id="occupation">Occupation</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2020-</code>
+<strong>KMD</strong>, Aarhus</p>
+
+<ul>
+  <li>Chief Data Scientist</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2018-2020</code>
+<strong>KMD</strong>, Aarhus</p>
+
+<ul>
+  <li>Lead Data Scientist</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2016-2018</code>
+<strong>KMD</strong>, Aarhus</p>
+
+<ul>
+  <li>BI Specialist</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2015-2016</code>
+<strong>Amager Privatskole</strong>, Copenhagen</p>
+
+<ul>
+  <li>Teaching Assistant</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2011-2015</code>
+<strong>Sofie Amalie Gaarden</strong>, Frederiksberg</p>
+
+<ul>
+  <li>Substitute Caretaker</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2009-2011</code>
+<strong>Royal Danish Navy</strong>, Greenland &amp; Faroe Islands</p>
+
+<ul>
+  <li>First Lieutenant</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2004-2009</code>
+<strong>Royal Danish Navy</strong>, Danish Waters and Naval Academy</p>
+
+<ul>
+  <li>Cadet</li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: Dec 2020 -->
+
+:ET
