@@ -1,65 +1,132 @@
-# markdown-cv
+---
+layout: cv
+title: Mikkel Buchvardt's CV
+---
+# Mikkel Buchvardt
+Chief Data Scientist, Software Engineer, Naval Officer.
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="https://www.linkedin.com/in/mikkelberntbuchvardt/">https://www.linkedin.com/in/mikkelberntbuchvardt/</a>
+</div>
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
-***
+## Currently
 
-## Customization
+Chief Data Scientist
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+### Specialized in
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+Designing, Building and managing *Intelligent Systems* combining Machine Learning- and Software Engineering process and technologies. Popularly phrased as **MLOps**. 
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+### Research interests
 
-adding your skills, jobs and education.
+[Applied AI](https://people.eecs.berkeley.edu/~russell/aima1e.html), Cloud- and Software Engineering, Inner- and Open Source Culture, Leadership
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-## Distribution
+## Projects
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+`IoT POC`
 
-### I. Use Github Pages to publish it online
+City Data Exchange Proof Of Concept application with Hitachi Consulting and municipality of Copenhagen. REST endpoint integration to smartphone app to infer wether a person is walking, running, biking, driving -car, -bus, or -train based on input from phone sensors.
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+`NER for invoices`
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+Leading a team that applied transformer based NLP algorithms to manually annotated invoice data proved to distinguish well between names, brands, organizations etc.
 
-### II. Build it locally and print a PDF
+`AI Academy`
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
+Onboard a team of data scientist into an existing organization, teach the AI tech stack and set up for success with stakeholders like Product Managers and Architects across the company.
 
-## Styling
+`Case summary`
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+An application that can summarize across different documents extracting key phrases using NLP methods TextRank and KeyPhraseExtraction.
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+## Products
 
-### Author
+`UNSPSC® Classifier`
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+Deep Learning based functionality to hierarchaly label structured and unstructured invoice data into over 60.000 categories. To accommodate speed the application is deployed in k8s.
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+[Spend Analysis](https://www.kmd.dk/loesninger-og-services/loesninger/oekonomi/kmd-opus-indkoeb/kmd-indkoebsanalyse)
 
-### License
+`Auto Accounting`
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+Deep Learning based functionality to automate accounting of invoices in municipalities using supervised learning.
+
+[Easy Payment](https://www.kmd.dk/loesninger-og-services/loesninger/oekonomi/kmd-letbetaling)
+
+
+## Skills
+
+`Software Eng.`
+Agile, SCRUM, GIT, OOP, UML, Azure Cloud, DevOps, K8s, Docker, Java, SQL, REST API, Kafka, RabbitMQ
+
+`AI`
+CRISP-DM, MS TDSP, ML, DL, NLP, Time Series, R, Python, Tensorflow, PyTorch
+
+`Business`
+Leadership, Team Management, Documentation, Teaching, Presentation, Business Psychology, Business Process Analysis
+
+
+## Education
+
+`2014-2016`
+__IT-University, Copenhagen.__
+
+- Master Of Science (MsC), Software development and technology
+
+`2011-2014`
+__Copenhagen Business School, Copenhagen__
+
+- Bachelor's Degree, Economics and Psychology
+
+`2004-2009`
+__Royal Danish Naval Academy__
+
+- Ships Master and Naval Officer
+
+
+## Occupation
+
+`2020-`
+__KMD__, Aarhus
+
+- Chief Data Scientist
+
+`2018-2020`
+__KMD__, Aarhus
+
+- Lead Data Scientist
+
+`2016-2018`
+__KMD__, Aarhus
+
+- BI Specialist
+
+`2015-2016`
+__Amager Privatskole__, Copenhagen
+
+- Teaching Assistant
+
+`2011-2015`
+__Sofie Amalie Gaarden__, Frederiksberg
+
+- Substitute Caretaker
+
+`2009-2011`
+__Royal Danish Navy__, Greenland & Faroe Islands
+
+- First Lieutenant
+
+`2004-2009`
+__Royal Danish Navy__, Danish Waters and Naval Academy
+
+- Cadet
+
+<!-- ### Footer
+
+Last updated: Dec 2020 -->
+
+
